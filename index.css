@@ -28,8 +28,12 @@ section{
 }
 
 .photo{
-    height: 300px;
+    height: 350px;
     width: auto;
+}
+
+.icon{
+    height: 25px;
 }
 
 nav{
